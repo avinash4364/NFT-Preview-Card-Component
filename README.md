@@ -10,6 +10,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -22,8 +23,6 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-
-![](./screenshot.jpg)
 
 ### Links
 
@@ -38,6 +37,11 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
+### Useful resources
+
+- [resource 1](https://box-shadow.dev/) - Shadow generator
+- [resource 2](https://maketintsandshades.com/) - Tint and Shade generator
+
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@avinash4364](https://www.frontendmentor.io/profile/avinash4364)
