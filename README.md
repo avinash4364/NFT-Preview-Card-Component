@@ -23,6 +23,8 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+![127 0 0 1_5500_(Nest Hub Max)](https://github.com/avinash4364/NFT-Preview-Card-Component/assets/24203618/3341cef4-f0d2-45fc-ba69-970ec8a98ff9)
+![127 0 0 1_5500_(iPhone 12 Pro)](https://github.com/avinash4364/NFT-Preview-Card-Component/assets/24203618/a60f8f39-ac46-4f43-adc8-07dcc20018da)
 
 ### Links
 
